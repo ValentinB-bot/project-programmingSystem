@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <data name="EnterFilesPrompt" xml:space="preserve">
+    <value>Entrez les fichiers que vous voulez save:</value>
+  </data>
+    <data name="LanguageChoicePrompt" xml:space="preserve">
+    <value>Vous avez choisi : Francais</value>
+  </data>
+    <data name="ErrorOccuredWithPath" xml:space="preserve">
+    <value>Une erreur s'est produite.</value>
+    </data>
+    <data name="SourceFolderFoundAtLocation" xml:space="preserve">
+    <value>Le dossier source a été trouvé à l'emplacement : {0}</value>
+    </data>
+    <data name="TargetFolderFoundAtLocation" xml:space="preserve">
+    <value>Le dossier de destination a été trouvé à l'emplacement : {0}</value>
+    </data>
+  <data name="FileCreatedSuccessfully" xml:space="preserve">
+    <value>Fichier créé avec succès.</value>
+    </data>
+  <data name="InvalidCharacter" xml:space="preserve">
+  <value>Caractère invalide. Seuls les nombres, ';' et '.' sont autorisés.</value>
+  </data>
+  <data name="FolderDoesNotExist" xml:space="preserve">
+    <value>Le dossier n'existe pas.</value>
+    </data>
+  <data name="FolderCopiedSuccessfully" xml:space="preserve">
+    <value>Dossier {0} copié avec succès.</value>
+    </data>
+  <data name="FolderContentCopiedSuccessfully" xml:space="preserve">
+    <value>Contenu du dossier copié avec succès.</value>
+    </data>
+  <data name="FolderDoesNotExist" xml:space="preserve">
+    <value>Le dossier n'existe pas.</value>
+    </data>
+  <data name="InvalidLengthOfString" xml:space="preserve">
+    <value>Longueur de chaîne invalide. La longueur de la chaîne doit être d'au moins 1.</value>'
+    </data>
+  <data name="SourceDirectoryDoesNotExist" xml:space="preserve">
+    <value>Le dossier source n'existe pas.</value>
+    </data>
+  <data name="ChoiceTypeOfLogFile" xml:space="preserve">
+    <value>Quel type de fichier logs ?</value>
+    </data>
+</root>

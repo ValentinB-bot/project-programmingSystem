@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="EnterFilesPrompt" xml:space="preserve">
+    <value>Enter the folders you want to save :</value>
+    </data>
+    <data name="LanguageChoicePrompt" xml:space="preserve">
+    <value>You choose : English</value>
+    </data>
+    <data name="ErrorOccured" xml:space="preserve">
+    <value>An error occured.</value>
+    </data>
+    <data name="SourceFolderFoundAtLocation" xml:space="preserve">
+    <value>The source folder was found here : {0}</value>
+    </data>
+    <data name="TargetFolderFoundAtLocation" xml:space="preserve">
+    <value>The destination folder was found here : {0}</value>
+    </data>
+    <data name="FileCreatedSuccessfully" xml:space="preserve">
+    <value>The file was created successfully.</value>
+    </data>
+    <data name="InvalidCharacter" xml:space="preserve">
+    <value>Invalid characters detected. Only numbers, ';' and '-' are allowed.</value>
+    </data>
+    <data name="FolderDoesNotExist" xml:space="preserve">
+    <value>The folder does not exist.</value>
+    </data>
+    <data name="FolderCopiedSuccessfully" xml:space="preserve">
+    <value>Folder {0} copied successfully.</value>
+    </data>
+    <data name="FolderContentCopiedSuccessfully" xml:space="preserve">
+    <value>Folder content copied successfully.</value>
+    </data>
+    <data name="FolderDoesNotExist" xml:space="preserve">
+    <value>The folder does not exist.</value>
+    </data>
+    <data name="InvalidLengthOfString" xml:space="preserve">
+    <value>Invalid length of string. It should be at least 1 character long.</value>
+    </data>
+    <data name="SourceDirectoryDoesNotExist" xml:space="preserve">
+    <value>The source directory does not exist.</value>
+    </data>
+    <data name="ChoiceTypeOfLogFile" xml:space="preserve">
+    <value>Which type of log file ?</value>
+    </data>
+</root>
